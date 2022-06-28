@@ -1,5 +1,9 @@
 {
-  "name": "strapi-plugin-image2",
+  "name": "@seansly/strapi-plugin-image2",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
   "version": "1.0.0",
   "description": "",
   "scripts": {
