@@ -1,6 +1,6 @@
 button {
   font-size: 60px;
-  background-color: linear-gradient(salmon, skyblue);
+  background: linear-gradient(salmon, skyblue);
   color: white;
   padding: 15px 30px;
 }
